@@ -1,0 +1,23 @@
+{
+  "name": "docker-example",
+  "version": "1.0.0",
+  "description": "A simple example to explain Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domnikl/docker-example.git"
+  },
+  "author": "Dominik Liebler",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/domnikl/docker-example/issues"
+  },
+  "homepage": "https://github.com/domnikl/docker-example#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

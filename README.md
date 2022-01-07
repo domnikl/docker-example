@@ -1,2 +1,3 @@
 # docker-example
-a simple example to explain Docker
+
+A simple example to explain Docker.
